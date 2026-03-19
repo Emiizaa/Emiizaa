@@ -1,3 +1,5 @@
+<img src="https://media1.tenor.com/m/5EQDrw2G2iMAAAAd/cat.gif" alt="Nyan Cat" width="300" />
+
 <h1 align="left">Hiii 👋 Github :)</h1>
 
 ###
